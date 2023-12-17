@@ -61,3 +61,5 @@ O arquivo "dataDuplicates.txt" conta o número de chaves duplicadas em "data.csv
 O arquivo "output.txt" é um exemplo da saída do programa principal.
 
 O arquivo "outputDuplicates.txt" conta o número de chaves duplicadas em "output.txt" (não há duplicatas).
+
+O arquivi bucketSize.txt exibe o número de entradas em cada bucket.
