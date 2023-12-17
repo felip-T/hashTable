@@ -11,6 +11,7 @@ class hashTable
 {
 public:
 	hashTable(std::function<size_t(key)>);
+	~hashTable() { delete[] table; }
 	void setHash(std::function<size_t(key)>);
 	void insert(key, T);
 	void remove(key);
